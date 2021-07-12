@@ -1,2 +1,3 @@
 # demo-repo
-Demo project. 
+
+Welcome to my demo project. More to come...
